@@ -1,0 +1,14 @@
+section {
+    border: 5px solid black;
+    width: 270px;
+}
+
+div {
+    border-bottom: 2px solid grey;
+    padding: 2%;
+    background-color: lightgray;
+}
+
+#title {
+    font-weight: bold;
+}
